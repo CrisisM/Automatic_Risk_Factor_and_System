@@ -3,7 +3,7 @@
 # Model Using Instructions
 
 ## Overview
-This project demonstrates a factor-based risk parity model using a combination of Python and web technologies for data analysis and visualization. Due to time and budget constraints, the system currently requires manual data downloads from platforms like Yahoo Finance and Wind for experiments.
+This project showcases a factor-based risk parity model that combines Python and web technologies for data analysis and visualization. The system automatically adjusts asset allocation ratios in response to market volatility, achieving dynamic portfolio optimization. Currently, the system supports experimental analysis using data manually obtained from platforms like Yahoo Finance and Wind.
 
 ## Workflow
 
